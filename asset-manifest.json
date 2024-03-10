@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/YanaFP/stacklineAssessment.github.io/static/css/main.aec9b9d5.css",
-    "main.js": "/YanaFP/stacklineAssessment.github.io/static/js/main.c71f001d.js",
-    "static/js/453.1493e967.chunk.js": "/YanaFP/stacklineAssessment.github.io/static/js/453.1493e967.chunk.js",
-    "static/media/stackline_logo.svg": "/YanaFP/stacklineAssessment.github.io/static/media/stackline_logo.5935081bd899ecfe02395699e768f84e.svg",
-    "index.html": "/YanaFP/stacklineAssessment.github.io/index.html",
-    "main.aec9b9d5.css.map": "/YanaFP/stacklineAssessment.github.io/static/css/main.aec9b9d5.css.map",
-    "main.c71f001d.js.map": "/YanaFP/stacklineAssessment.github.io/static/js/main.c71f001d.js.map",
-    "453.1493e967.chunk.js.map": "/YanaFP/stacklineAssessment.github.io/static/js/453.1493e967.chunk.js.map"
+    "main.css": "/stackline-assessment/static/css/main.aec9b9d5.css",
+    "main.js": "/stackline-assessment/static/js/main.1954e21f.js",
+    "static/js/453.1493e967.chunk.js": "/stackline-assessment/static/js/453.1493e967.chunk.js",
+    "static/media/stackline_logo.svg": "/stackline-assessment/static/media/stackline_logo.5935081bd899ecfe02395699e768f84e.svg",
+    "index.html": "/stackline-assessment/index.html",
+    "main.aec9b9d5.css.map": "/stackline-assessment/static/css/main.aec9b9d5.css.map",
+    "main.1954e21f.js.map": "/stackline-assessment/static/js/main.1954e21f.js.map",
+    "453.1493e967.chunk.js.map": "/stackline-assessment/static/js/453.1493e967.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aec9b9d5.css",
-    "static/js/main.c71f001d.js"
+    "static/js/main.1954e21f.js"
   ]
 }
