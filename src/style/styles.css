@@ -1,0 +1,53 @@
+/* Header component css */
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #052849;
+  padding: "0 24px";
+  height: 60px;
+}
+
+.header img {
+  height: 23px;
+  padding-left: 27px;
+}
+
+/* Product component css */
+#card-img {
+  width: 100%;
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+  margin: "25px 0px 10px 52px";
+  width: "131px";
+  height: "131px";
+}
+
+.tag {
+  background-color: white;
+  border-color: #838892;
+  border-radius: 3px;
+  border: "1px solid #999";
+}
+
+/* Table component css */
+.my-table {
+  margin: 80px 7px 7px 0;
+  padding: 20px 0;
+  width: 100%;
+  border: 1px solid white;
+  text-align: center;
+  background-color: white;
+  border-radius: 4px;
+  color: #ccc;
+  box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.1);
+}
+.table-new th {
+  color: #838892 !important;
+}
+
+tr,
+td {
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+  color: #838892 !important;
+}
